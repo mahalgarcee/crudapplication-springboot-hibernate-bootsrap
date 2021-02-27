@@ -10,3 +10,4 @@
 
 
 ********* I hope you like it and i'm really excited to read feedbacks ***********************
+(type http://localhost:8080/customer/list to get customers list, and do the crud stuff ;) )
