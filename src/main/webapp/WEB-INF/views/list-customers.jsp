@@ -95,7 +95,7 @@
       <div class="row">
         <div class="col">
           <ul class="list-inline ">
-            <li class="list-inline-item"><a href="#">Github code</a></li>
+            <li class="list-inline-item"><a href="https://github.com/mahalgarcee/crudapplication-springboot-hibernate-bootsrap">Github code</a></li>
             <li class="list-inline-item">&middot;</li>
             <li class="list-inline-item"><a href="/customer/list">Back to list</a></li>
           </ul>
